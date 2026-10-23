@@ -47,14 +47,41 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+Tabulation for Open Circuit Test:
+
+
+<img width="1723" height="786" alt="beee ex 2 oct" src="https://github.com/user-attachments/assets/fff38cdd-2a41-46f1-b56f-8d7c0a3a885e" />
+
 
 Tabulation for Load Test:
 
+
+<img width="1309" height="763" alt="beee ex 2 lct" src="https://github.com/user-attachments/assets/7cf09c42-aebf-4a42-96ca-aa7932039810" />
+
+
 Model graph:
+
+Open Circuit Test:
+
+<img width="1644" height="529" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/318274ab-2bdb-454b-9a38-1cbee10368b5" />
+
+Load Test:
+
+<img width="758" height="351" alt="graph lt " src="https://github.com/user-attachments/assets/23803fe9-96b8-4512-91b9-4af6120744d2" />
+
+
 Calculation: 
 
-Open circuit characteristics
+Open Circuit Test:
+
+<img width="326" height="321" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/db618f2d-e267-4b16-aee2-afa2b5a02a65" />
+
+Load Test:
+
+<img width="380" height="342" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/ef1d3ff0-0e4f-4e80-b929-9792ba062274" />
+
+
+Open circuit characteristics:
 
   
 Load Characteristics:
